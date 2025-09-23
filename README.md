@@ -49,3 +49,4 @@ streamlit run Home.py
 - `date` (datetime / parseable)
 - `amount` (numeric)
 - `category`, `merchant`, `payment_method`, `account_type`, `transaction_type`, `description` (strings)
+# financial-transactions-dashboard
